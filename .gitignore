@@ -1,0 +1,9 @@
+application/public/storage
+application/storage/*.key
+application/vendor
+application/.env
+application/.env.backup
+.env
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
